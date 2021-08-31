@@ -1,0 +1,6 @@
+*.bak
+*.out
+*.js
+!*.min.js
+*.css
+!*.min.css
