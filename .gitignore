@@ -4,4 +4,5 @@
 !*.min.js
 *.css
 !*.min.css
+*.svg
 things.html
